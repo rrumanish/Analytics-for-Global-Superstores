@@ -45,17 +45,17 @@ Discount => Discount provided.
 Profit => Profit/Loss incurred.
 
 
-## Total Data Points:11,89,688
+# Total Data Points:11,89,688
 
-## Number of attributes(column): 24
+# Number of attributes(column): 24
 
-## Total Number of rows: 51291
+# Total Number of rows: 51291
 
-## Deliverables:
+# Deliverables:
 
-## Analysis (Graphs/Plots): 
+# Analysis (Graphs/Plots): 
 
-## Comments (Advice)(Actions)(Outcomes):
+# Comments (Advice)(Actions)(Outcomes):
 
 
 
